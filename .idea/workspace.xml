@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abe84c5e-252b-460a-809e-af0ddb0e765e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bRqyRIsTd1jryIFUXSFw5tOIcE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.maqa.project.main.MainClass" />
+      <module name="QandASpring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe84c5e-252b-460a-809e-af0ddb0e765e" name="Default Changelist" comment="" />
+      <created>1588605507910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588605507910</updated>
+      <workItem from="1588605510887" duration="907000" />
+      <workItem from="1588606431888" duration="2372000" />
+      <workItem from="1588620424179" duration="3739000" />
+      <workItem from="1588662296149" duration="3781000" />
+      <workItem from="1588671810243" duration="6000" />
+      <workItem from="1588791123416" duration="2912000" />
+      <workItem from="1588839380245" duration="234000" />
+      <workItem from="1588952461312" duration="1665000" />
+      <workItem from="1589006910817" duration="192000" />
+      <workItem from="1589007609439" duration="71000" />
+      <workItem from="1589110729390" duration="46000" />
+      <workItem from="1589116676121" duration="188000" />
+      <workItem from="1589224555118" duration="392000" />
+      <workItem from="1590738017864" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="202" key="#Project_Structure" timestamp="1588791166374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="202" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1588791166374" />
+    <state x="3" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588621720739">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588621720739" />
+    <state x="285" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1588664650666">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="285" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588664650666" />
+    <state x="329" y="288" key="FileChooserDialogImpl" timestamp="1588621718112">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="329" y="288" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588621718112" />
+    <state width="938" height="297" key="GridCell.Tab.0.bottom" timestamp="1589116864315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589116864315" />
+    <state width="938" height="297" key="GridCell.Tab.0.center" timestamp="1589116864315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589116864315" />
+    <state width="938" height="297" key="GridCell.Tab.0.left" timestamp="1589116864315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589116864315" />
+    <state width="938" height="297" key="GridCell.Tab.0.right" timestamp="1589116864315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589116864315" />
+    <state x="0" y="189" key="SettingsEditor" timestamp="1588606420186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="189" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588606420186" />
+    <state x="195" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1589224555110">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="195" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589224555110" />
+    <state x="167" y="390" key="new project wizard" timestamp="1589224948153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="167" y="390" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1589224948153" />
+  </component>
+</project>
